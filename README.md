@@ -30,7 +30,6 @@ Sanvi Nowal • Firdose Anjum • Mahathi Priya • M S Soummya • Ceelam Racha
   - Jacobian Matrix Method
   - Polynomial + Companion Matrix
 - Lagrange interpolation and visualization
-- Comparison of techniques via interactive charts
 
 📁 Folder: `Project_02_Gauss_Legendre`  
 📄 Run: `streamlit run Num_Assgn_2_GUI.py`
